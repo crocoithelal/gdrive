@@ -2,6 +2,9 @@ https://github.com/marufshidiq/gdrive-cli-builder
 
 https://github.com/prasmussen/gdrive
 
+https://pimylifeup.com/compiling-and-running-gdrive/
+
+
 
 gdrive
 ======
